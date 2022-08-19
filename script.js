@@ -11,3 +11,5 @@ const topics = document.querySelectorAll(".dropdownTopic");
 for(topic of topics){
     topic.addEventListener("click", changeTopic);
 }
+
+
